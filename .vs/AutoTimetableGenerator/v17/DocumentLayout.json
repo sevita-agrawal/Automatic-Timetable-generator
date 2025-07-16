@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|d:\\autotimetablegenerator\\application\\autotimetablegenerator\\forms\\programsemesterforms\\frmprogramsemestersubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|solutionrelative:forms\\programsemesterforms\\frmprogramsemestersubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\forms\\programsemesterforms\\frmprogramsemestersubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|solutionrelative:forms\\programsemesterforms\\frmprogramsemestersubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\forms\\cofigurationforms\\frmsessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|solutionrelative:forms\\cofigurationforms\\frmsessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\forms\\cofigurationforms\\frmsessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|solutionrelative:forms\\cofigurationforms\\frmsessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\lecturersubjectform\\frmlecturersubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|solutionrelative:lecturersubjectform\\frmlecturersubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\forms\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|solutionrelative:forms\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\forms\\programsemesterforms\\frmsemestersections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|solutionrelative:forms\\programsemesterforms\\frmsemestersections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\forms\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|solutionrelative:forms\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\forms\\programsemesterforms\\frmsemestersections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|solutionrelative:forms\\programsemesterforms\\frmsemestersections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\forms\\cofigurationforms\\frmdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|solutionrelative:forms\\cofigurationforms\\frmdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\forms\\cofigurationforms\\frmdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|solutionrelative:forms\\cofigurationforms\\frmdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\forms\\frmgeneratetimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31B99C71-C20B-4242-AF9A-7B3C575CC3EC}|AutoTimetableGenerator.csproj|solutionrelative:forms\\frmgeneratetimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmGenerateTimeTable.cs [Design]",
+              "DocumentMoniker": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\FrmGenerateTimeTable.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmGenerateTimeTable.cs",
+              "ToolTip": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\FrmGenerateTimeTable.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmGenerateTimeTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T03:34:41.531Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmProgramSemesterSubject.cs",
+              "DocumentMoniker": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\ProgramSemesterForms\\frmProgramSemesterSubject.cs",
+              "RelativeDocumentMoniker": "Forms\\ProgramSemesterForms\\frmProgramSemesterSubject.cs",
+              "ToolTip": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\ProgramSemesterForms\\frmProgramSemesterSubject.cs",
+              "RelativeToolTip": "Forms\\ProgramSemesterForms\\frmProgramSemesterSubject.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:02:57.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmProgramSemesterSubject.cs [Design]",
+              "DocumentMoniker": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\ProgramSemesterForms\\frmProgramSemesterSubject.cs",
+              "RelativeDocumentMoniker": "Forms\\ProgramSemesterForms\\frmProgramSemesterSubject.cs",
+              "ToolTip": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\ProgramSemesterForms\\frmProgramSemesterSubject.cs [Design]",
+              "RelativeToolTip": "Forms\\ProgramSemesterForms\\frmProgramSemesterSubject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:02:50.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSessions.cs [Design]",
+              "DocumentMoniker": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\CofigurationForms\\frmSessions.cs",
+              "RelativeDocumentMoniker": "Forms\\CofigurationForms\\frmSessions.cs",
+              "ToolTip": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\CofigurationForms\\frmSessions.cs [Design]",
+              "RelativeToolTip": "Forms\\CofigurationForms\\frmSessions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:48:17.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\HomeForm.cs",
+              "RelativeDocumentMoniker": "Forms\\HomeForm.cs",
+              "ToolTip": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\HomeForm.cs",
+              "RelativeToolTip": "Forms\\HomeForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvx0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:34:36.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmSessions.cs",
+              "DocumentMoniker": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\CofigurationForms\\frmSessions.cs",
+              "RelativeDocumentMoniker": "Forms\\CofigurationForms\\frmSessions.cs",
+              "ToolTip": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\CofigurationForms\\frmSessions.cs",
+              "RelativeToolTip": "Forms\\CofigurationForms\\frmSessions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:48:19.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmSemesterSections.cs",
+              "DocumentMoniker": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\ProgramSemesterForms\\frmSemesterSections.cs",
+              "RelativeDocumentMoniker": "Forms\\ProgramSemesterForms\\frmSemesterSections.cs",
+              "ToolTip": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\ProgramSemesterForms\\frmSemesterSections.cs",
+              "RelativeToolTip": "Forms\\ProgramSemesterForms\\frmSemesterSections.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:42:54.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T05:25:43.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLecturerSubject.cs [Design]",
+              "DocumentMoniker": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\LecturerSubjectForm\\frmLecturerSubject.cs",
+              "RelativeDocumentMoniker": "LecturerSubjectForm\\frmLecturerSubject.cs",
+              "ToolTip": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\LecturerSubjectForm\\frmLecturerSubject.cs [Design]",
+              "RelativeToolTip": "LecturerSubjectForm\\frmLecturerSubject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:00:53.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmSemesterSections.cs [Design]",
+              "DocumentMoniker": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\ProgramSemesterForms\\frmSemesterSections.cs",
+              "RelativeDocumentMoniker": "Forms\\ProgramSemesterForms\\frmSemesterSections.cs",
+              "ToolTip": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\ProgramSemesterForms\\frmSemesterSections.cs [Design]",
+              "RelativeToolTip": "Forms\\ProgramSemesterForms\\frmSemesterSections.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:56:55.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\HomeForm.cs",
+              "RelativeDocumentMoniker": "Forms\\HomeForm.cs",
+              "ToolTip": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\HomeForm.cs [Design]",
+              "RelativeToolTip": "Forms\\HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:34:34.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmDays.cs",
+              "DocumentMoniker": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\CofigurationForms\\frmDays.cs",
+              "RelativeDocumentMoniker": "Forms\\CofigurationForms\\frmDays.cs",
+              "ToolTip": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\CofigurationForms\\frmDays.cs",
+              "RelativeToolTip": "Forms\\CofigurationForms\\frmDays.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAgwLwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:33:39.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmDays.cs [Design]",
+              "DocumentMoniker": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\CofigurationForms\\frmDays.cs",
+              "RelativeDocumentMoniker": "Forms\\CofigurationForms\\frmDays.cs",
+              "ToolTip": "D:\\AutoTimeTableGenerator\\Application\\AutoTimetableGenerator\\Forms\\CofigurationForms\\frmDays.cs [Design]",
+              "RelativeToolTip": "Forms\\CofigurationForms\\frmDays.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:33:38.681Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
